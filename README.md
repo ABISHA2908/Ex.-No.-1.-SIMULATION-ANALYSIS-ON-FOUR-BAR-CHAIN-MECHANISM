@@ -53,10 +53,14 @@
 
 
 ## Output:
+![image](https://github.com/ABISHA2908/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/155435582/7b2a0333-b5de-48b0-8288-52cf96cf0774)
 
+![image](https://github.com/ABISHA2908/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/155435582/03f603b5-feb9-4a62-a05d-9d1b47411b00)
 
-### Name:
-### Register Number: 
+![image](https://github.com/ABISHA2908/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/155435582/4e2ee9b6-79e8-4b7e-995b-2485b31e2a58)
+
+### Name: ABISHAI K C
+### Register Number: 212223240002
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
